@@ -1,0 +1,19 @@
+.sideBar{
+  margin-top: .5vh;
+  height: 90vh;
+  border-right: 1px solid black;
+  width: 25vw;
+  float: left;
+}
+
+.sideInfo{
+  margin-top: 5vh;
+  width: 40vw;
+  padding: 5vw;
+}
+
+.content {
+  float: right;
+  text-align: center;
+  margin-right: 25vw;
+}
